@@ -1,0 +1,19 @@
+This is the code repo for the work presented in "Topological Assessment of Recoverability in Metro Networks" (Renzo Massobrio and Oded Cats).
+
+Contact info:
+Renzo Massobrio
+R.M.Massobrio@tudelft.nl
+
+======
+Set-up:
+
+1. Create the conda environment with the dependencies: "conda env create -f environment.yml"
+2. Download experimental results from here: https://surfdrive.surf.nl/files/index.php/s/NWoDdfPk5OyK1rM
+3. Place the files in the "exps" directory
+
+======
+Run:
+
+1. Open a terminal in this directory
+2. Activate the environment: "conda activate recoverability" 
+3. Run "jupyter notebook"

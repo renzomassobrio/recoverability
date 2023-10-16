@@ -1,0 +1,5 @@
+name: recoverability
+dependencies:
+  - jupyter
+  - scipy
+  - networkx
